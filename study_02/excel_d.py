@@ -31,7 +31,7 @@ print( "第一行的值为:", rows)
 print( "第二列的值为:", cols)
 
 # 获取单元格内容的数据类型
-print( "第二行第一列的值类型为:", sh1.cell(1, 0).ctype)
+print("第二行第一列的值类型为:", sh1.cell(1, 0).ctype)
 
 # 遍历所有表单内容
 for sh in wb.sheets():
