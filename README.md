@@ -7,21 +7,14 @@ python_study
       dict.py  字典的基本操作    
       var_file.py 全局变量 局部变量  
 
-**study_02**  
-<<<<<<< HEAD
+**study_02**
    自定义模块  
    文件的读取  
+
 **study_03**  
    爬虫  
-=======
-      自定义模块  
-      文件的读取  
 
-**study_03**  
-      爬虫    
-
->>>>>>> update file
 **study_04**  
-      数据结构   
+   数据结构   
 
   
